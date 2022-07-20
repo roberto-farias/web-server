@@ -16,6 +16,6 @@ galaxy_info:
   galaxy_tags:
     - apache
 dependencies:
-    - roberto_farias.balancer
-    - roberto_farias.nfs_server
-    - roberto_farias.mysql_server
+  - roberto_farias.balancer
+  - roberto_farias.nfs_server
+  - roberto_farias.mysql_server
