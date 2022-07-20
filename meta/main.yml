@@ -15,4 +15,7 @@ galaxy_info:
         - 8
   galaxy_tags:
     - apache
-dependencies: []
+dependencies:
+    - balancer
+    - nfs_server
+    - mysql_server
