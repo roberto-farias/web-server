@@ -8,8 +8,8 @@
   apt:
     name: "{{ packages_debian }}"
     state: present
-  notify:
-    - Start Apache
+#  notify:
+#    - Start Apache
   tags: web-debian
 
 - name: Instala Webserver Apache no RedHat/CentOS
